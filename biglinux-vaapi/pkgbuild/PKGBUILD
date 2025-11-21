@@ -1,8 +1,8 @@
 # Maintainer: Barnabe di Kartola <barnabedikartola@gmail.com>
 
 pkgname=biglinux-vaapi
-pkgver=$(date +%y.%m.%d)
-pkgrel=$(date +%H%M)
+pkgver=24.05.18
+pkgrel=1938
 arch=('any')
 license=('GPL')
 depends=('libva-intel-driver' 'libva-mesa-driver' 'intel-media-driver' 'lib32-libva-intel-driver' 'lib32-libva-mesa-driver')
